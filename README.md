@@ -12,24 +12,4 @@ The **File Explorer Web Application** is a React-based project that simulates a 
 - **Upload Progress Popup:** A popup appears during file upload, displaying the current progress and automatically disappearing when the upload is complete.
 - **Aesthetic UI:** The application uses tones of black with colorful headings to ensure a professional and modern look.
 
-## Directory Structure
-
-The project follows a standard React application structure, created using Vite. Below is the directory structure:
-
-
-src/
-├── components/
-│   ├── FileExplorer.jsx
-│   ├── FileUploadPopup.jsx
-├── App.css
-├── App.jsx
-├── index.css
-├── main.jsx
-├── assets/
-│   └── (contains static assets like images or videos, if any)
-public/
-├── vite.svg (Vite logo)
-index.html
-package.json
-vite.config.js
 
